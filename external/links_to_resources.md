@@ -22,3 +22,5 @@ TODO: Insert location of yaml-file here.
 ### [Foundations of Data Science](http://data8.org/fa16/)
 
 ### [Computational and Inferential Thinking](https://www.inferentialthinking.com)
+
+### [IMC Software Carpentry site](https://chrismedrela.github.io/2016-08-22-aarhus/)
