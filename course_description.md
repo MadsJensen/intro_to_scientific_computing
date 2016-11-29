@@ -1,7 +1,10 @@
 # Introduction to scientific computing #
 
-## Goals ##
+## AIM ##
+To provide students with a basic understanding of how scientific computing work. Such an understanding is the basis for learning programming language and make reproducible analyses of data.
 
+
+## Learning outcomes ##
 * What are the goals of the course?
     * The goal of the course is to prepare students to take more advanced course with programming languages.
     * This entails a basic understanding of:
