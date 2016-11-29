@@ -17,7 +17,7 @@ To provide students with a basic understanding of how scientific computing work.
     * Basic variables
     * Advanced variables
     * Arithmetic
-    * Program concepts
+    * Programming concepts
 
 * Who are the target audience?
     * Students who are not familiar with basic scientific computing. 
