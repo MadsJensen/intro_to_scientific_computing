@@ -18,7 +18,9 @@ Successful completion of the course will enable the student to:
 * use _variables_ in a programming language (python) and perform simple operations (manipulations) on the information (data) they contain
 * assess the resources (memory, CPU?) associated with a processing task
     * too advanced?
+      * I think it worth mentioning, it is a issue for many.
 * write a program to extract information from a file containing data in textual format, and export the collated data to another text file for further processing (statistics, visualisation)
+    * Visualization might be to advanced. 
 
 ## Content ##
 
@@ -65,7 +67,7 @@ English
 The course alternates between short lectures and hands-on computational problems
 
 ### ECTS ###
-?????????? (2.1)
+?????????? (2.1) MJ: isn't this calculated based on the hours the course takes?
 
 ### Head of course ###
 Mads Jensen
