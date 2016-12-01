@@ -69,6 +69,10 @@ The course alternates between short lectures and hands-on computational problems
 ### ECTS ###
 ?????????? (2.1) MJ: isn't this calculated based on the hours the course takes?
 
+### Criteria for participation ###
+
+University degree in medicine, dentistry, nursing, or Master's degree in other fields and/or postgraduate research fellows (PhD students and research-year students).
+
 ### Head of course ###
 Mads Jensen
 
