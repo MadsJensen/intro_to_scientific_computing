@@ -1,54 +1,88 @@
 # Introduction to scientific computing #
 
-## AIM ##
-To provide students with a basic understanding of how scientific computing work. Such an understanding is the basis for learning programming language and make reproducible analyses of data.
+## Aims ##
+To provide students with a basic understanding of what is meant by the term "scientific computing", and how it can be implemented in practice.  Such an understanding is the basis for learning a programming language and make reproducible analyses of data.
 
+_Add a few more general aims and motivations, but already pretty good._
 
 ## Learning outcomes ##
-* What are the goals of the course?
-    * The goal of the course is to prepare students to take more advanced course with programming languages.
-    * This entails a basic understanding of:
-        - how a computer works
-        - what a file system is
-        - what a variable is and how it works
-        - How to perform simple operations on variables
 
-* Topics of the course:
-    * Basic variables
-    * Advanced variables
-    * Arithmetic
-    * Programming concepts
+_Define according to Bloom's Taxonomy (or similar)_, _cf._ ILOs.pdf
 
-* Who are the target audience?
-    * Students who are not familiar with basic scientific computing. 
+Successful completion of the course will enable the student to:
+
+* summarize the main components of a computer and explain the concept of a "file"
+    * NB: storage, memory, cpu, (gpu), input devices, output devices, network
+* contrast "local" and "network" file systems and formulate use cases for both
+    * NB: could be of relevance if talking about large files processed on a remote server 
+* use _variables_ in a programming language (python) and perform simple operations (manipulations) on the information (data) they contain
+* assess the resources (memory, CPU?) associated with a processing task
+    * too advanced?
+* write a program to extract information from a file containing data in textual format, and export the collated data to another text file for further processing (statistics, visualisation)
 
 ## Content ##
+
+The course runs over three days:
+
+_TODO: Split into 3 days_
 
 * Terminal
 * File system
 * Interactive v scripts
 * Bash
 * Memory
-
-
-## People ##
-
-* Who can be involved?
-    - Chris
-    - Mads
-
-
-## Info ##
-
-* 3 days
-* Make github repo for development of course.
-* data8.org -- Berkeley site on Data Science
-* https://www.inferentialthinking.com/
-* Use miniconda
-* Course start: start of fall semester 2017.
+* Basic variables
+* Advanced variables
+* Arithmetic
+* Programming concepts
 
 * Example: log files:
     * event: target (in samples).
     * reaction: button press (in samples).
     * calculate reaction time in ms.
     * export long format.
+
+
+### Teaching format ###
+
+Lectures (few) and (mostly) hands-on exercises.
+
+### Target audience ###
+
+* students of any discipline that generates _data_ that needs to be analysed to gain insight into a phenomenon (_a.k.a._ "everybody")
+* people interested in the foundations of data-driven science
+
+### Course material ###
+
+Will be provided before the beginning of course.
+
+### Language
+
+English
+
+### Involvement/Evaluation ###
+
+The course alternates between short lectures and hands-on computational problems
+
+### ECTS ###
+?????????? (2.1)
+
+### Head of course ###
+Mads Jensen
+
+### Instructors ###
+Mads Jensen
+Christopher Bailey
+
+### Number of participants ###
+Max. 16 participants
+
+### Dates and times ### 
+Start of fall semester 2017.
+
+### Place ###
+
+'Store IT-lab' in the Victor Albeck building, Aarhus University Course
+
+
+
