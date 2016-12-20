@@ -1,9 +1,7 @@
 # Introduction to scientific computing #
 
 ## Aims ##
-To provide students with a basic understanding of what is meant by the term "scientific computing" and how it can be implemented in practice. Such an understanding is the basis for learning a programming language and make reproducible analyses of data.
-
-The course will give the students valueble tools to either continue on another more advanced programming course or self-study. 
+To provide students with a basic understanding of what is meant by the term "scientific computing" and how it can be implemented in practice. Such an understanding is the basis for learning a programming language and make reproducible analyses of data. Further, it will provide the students valueble tools to either continue on another more advanced programming course or self-study. 
 
 
 _Add a few more general aims and motivations, but already pretty good._
@@ -26,37 +24,42 @@ Successful completion of the course will enable the student to:
     * MJ: visualization might be to advanced. 
 
 ## Content ##
-
 The course runs over three days:
 
-_TODO: Split into 3 days_
+
+[//]: # This may be the most platform independent comment
 
 _Thought: Maybe it would be good to talk about "pipes" as a metaphor for linking functions._
 
-* Day 1:
-    * What is a computer?
-    * Terminal
-    * File system
-    * Interactive v scripts
-    * Bash
+
+**Day 1:**
+
+* What is a computer?
+* Terminal
+* File system
+* Interactive v scripts
+* Bash
+
+**Day 2:**
+
+* Memory
+* Basic variables
+* Advanced variables
+* ?? maybe programming concepts 1, i.e. scripts in action
     
-* Day 2:
-    * Memory
-    * Basic variables
-    * Advanced variables
-    * ?? maybe programming concepts 1, i.e. scripts in action-ish
-    
-* Day 3:
-    * Programming concepts 
-    * Arithmetic
-    * Log file exercise
+**Day 3:**
+
+* Programming concepts 
+* Arithmetic
+* Log file exercise
 
 
-* Example: log files:
-    * Event: target (in samples).
-    * Reaction: button press (in samples).
-    * Calculate reaction time in ms.
-    * Export in long format.
+**Example: log files:**
+
+* Event: target (in samples).
+* Reaction: button press (in samples).
+* Calculate reaction time in ms.
+* Export in long format.
 
 
 ### Teaching format ###
