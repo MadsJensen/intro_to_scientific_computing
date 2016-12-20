@@ -1,7 +1,7 @@
 # Introduction to scientific computing #
 
 ## Aims ##
-To provide students with a basic understanding of what is meant by the term "scientific computing" and how it can be implemented in practice. Such an understanding is the basis for learning a programming language and make reproducible analyses of data. This understanding will provide the students valueble tools to either continue on another more advanced programming course or self-study. 
+To provide students with a basic understanding of what is meant by the term "scientific computing" and how it can be implemented in practice. Such an understanding is the basis for learning a programming language and make reproducible analyses of data. Further, it will provide the students valueble tools to either continue on another more advanced programming course or self-study. 
 
 
 _Add a few more general aims and motivations, but already pretty good._
