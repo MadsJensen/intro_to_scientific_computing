@@ -1,6 +1,6 @@
 # ToDos #
 
-- [] Write graduate school.
+- [ ] Write graduate school.
 - [x] Complete the course description. 
 
 
