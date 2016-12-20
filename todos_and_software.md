@@ -1,8 +1,8 @@
 # ToDos #
 
-- [ ] Write graduate school.
-- [x] Complete the course description. 
-
+- [ ] Complete the course description.
+- [ ] Write graduate school. 
+- [ ] Look at jupyter notebook slides
 
 
 # Software to look into #
