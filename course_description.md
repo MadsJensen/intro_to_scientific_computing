@@ -27,7 +27,7 @@ Successful completion of the course will enable the student to:
 The course runs over three days:
 
 
-[//]: # (This may be the most platform independent comment)
+[//]: # This may be the most platform independent comment
 
 _Thought: Maybe it would be good to talk about "pipes" as a metaphor for linking functions._
 
