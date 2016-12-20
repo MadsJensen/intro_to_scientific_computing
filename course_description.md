@@ -24,10 +24,10 @@ Successful completion of the course will enable the student to:
     * MJ: visualization might be to advanced. 
 
 ## Content ##
-
 The course runs over three days:
 
-_TODO: Split into 3 days_
+
+[comment]:  _TODO: Split into 3 days_
 
 _Thought: Maybe it would be good to talk about "pipes" as a metaphor for linking functions._
 
