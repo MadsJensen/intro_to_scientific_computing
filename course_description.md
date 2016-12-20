@@ -1,7 +1,7 @@
 # Introduction to scientific computing #
 
 ## Aims ##
-To provide students with a basic understanding of what is meant by the term "scientific computing" and how it can be implemented in practice. Such an understanding is the basis for learning a programming language and make reproducible analyses of data. Further, it will provide the students valueble tools to either continue on another more advanced programming course or self-study. 
+To provide students with a basic understanding of what is meant by the term "scientific computing" and how it can be implemented in practice. Such an understanding is the basis for learning a programming language and make reproducible analyses of data. Further, it will provide the students with valueble tools to either continue on another more advanced programming course or self-study. 
 
 
 _Add a few more general aims and motivations, but already pretty good._
@@ -19,15 +19,14 @@ Successful completion of the course will enable the student to:
 * Use _variables_ in a programming language (python) and perform simple operations (manipulations) on the information (data) they contain
 * Assess the resources (memory, CPU?) associated with a processing task
     * too advanced?
-      * MJ: I think it is worth mentioning, it is a issue for many.
+      * MJ: I think it is worth mentioning, it is a issue for many but maybe not as a goal.
 * Write a program to extract information from a file containing data in textual format, and export the collated data to another text file for further processing (statistics, visualisation)
     * MJ: visualization might be to advanced. 
 
 ## Content ##
 The course runs over three days:
 
-_Thought: Maybe it would be good to talk about "pipes" as a metaphor for linking functions._
-
+[//]: # (Thought: Maybe it would be good to talk about "pipes" as a metaphor for linking functions.)
 
 **Day 1:**
 
@@ -35,7 +34,7 @@ _Thought: Maybe it would be good to talk about "pipes" as a metaphor for linking
 * Terminal
 * File system
 * Interactive v scripts
-* Bash
+* The Bash shell
 
 **Day 2:**
 
