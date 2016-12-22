@@ -1,7 +1,6 @@
 # Introduction to scientific computing
 
-[//]: # (Course [github repo](https://github.com/MadsJensen/intro_to_scientific_computing).
-)
+[//]: # (Course [github repo](https://github.com/MadsJensen/intro_to_scientific_computing).)
 
 ## Aims ##
 To provide students with a basic understanding of what is meant by the term "scientific computing" and how it can be implemented in practice. Such an understanding is the basis for learning a programming language and make reproducible data analyses. Further, it will provide the students with valuable tools to either continue on another, more advanced, programming course, or self-studies.
