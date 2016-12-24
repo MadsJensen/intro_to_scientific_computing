@@ -13,8 +13,9 @@ To provide students with a basic understanding of what is meant by the term "sci
 
 Successful completion of the course will enable the student to:
 
-* Summarize the main components of a computer and explain the concept of a "file" in terms of these components
+* Summarize the main components of a computer and relate these to the process of "computing"
 [//]: # (    * NB: storage, memory, CPU, (GPU), input devices, output devices, network)
+* Contrast _textual_ and _binary_ files in terms of their contents and find information in both using tools that can be automated
 * Contrast "local" and "network" file systems and formulate use cases for both
 [//]: # (    * NB: could be of relevance if talking about large files processed on a remote server)
 * Use _variables_ in a programming language (python) and perform simple operations (manipulations) on the information (data) they contain
@@ -32,8 +33,8 @@ The course runs over three days:
 **Day 1:**
 
 * What is a computer?
-* Terminal
-* Bash
+* Terminal & Bash
+* Textual vs. binary files
 * File system(s)
 * Interactive development vs. scripts
 * Introduction to variables and memory

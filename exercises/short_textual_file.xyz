@@ -1,0 +1,5 @@
+# The hash-sign is often considered a "comment"
+
+Lines without hash-signs may carry important information, such as: 42
+
+Encoding of "non-ASCII" characters can sometimes be challenging: å, æ, ø, ä, ö.
