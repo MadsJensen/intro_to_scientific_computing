@@ -105,7 +105,6 @@ Mads Jensen
 
 ### Instructors
 Mads Jensen
-
 Christopher Bailey
 
 ### Number of participants
