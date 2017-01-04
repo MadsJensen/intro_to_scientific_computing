@@ -25,3 +25,6 @@ __Consider [jupyterlab](https://github.com/jupyterlab/jupyterlab)!__
 * "alpha preview" state, but rapidly developing
 * has all the components above, can be arranged IDE-like on screen
 * has csv-, md-, etc. -renderers for viewing ascii file contents in "pretty form"
+
+[//]: # (MJ: I agree that jupyterlab is worth using, even in present state)
+

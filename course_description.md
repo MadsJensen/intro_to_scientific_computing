@@ -6,6 +6,8 @@
 To provide students with a basic understanding of what is meant by the term "scientific computing" and how it can be implemented in practice. Such an understanding is the basis for learning a programming language and make reproducible data analyses. Further, it will provide the students with valuable tools to either continue on another, more advanced, programming course, or self-studies.
 
 [//]: # (_Add a few more general aims and motivations, but already pretty good._)
+[//]: # (MJ: Aren't the aims done?)
+
 
 ## Learning outcomes
 
@@ -112,5 +114,4 @@ Max. 16 participants
 Start of fall semester 2017.
 
 ### Place
-
 'Store IT-lab' in the Victor Albeck building, Aarhus University Course
