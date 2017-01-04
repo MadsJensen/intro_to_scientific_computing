@@ -104,7 +104,7 @@ University degree in medicine, dentistry, nursing, or Master's degree in other f
 Mads Jensen
 
 ### Instructors
-Mads Jensen
+Mads Jensen\
 Christopher Bailey
 
 ### Number of participants
