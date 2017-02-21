@@ -5,9 +5,6 @@
 ## Aims ##
 To provide students with a basic understanding of what is meant by the term "scientific computing" and how it can be implemented in practice. Such an understanding is the basis for learning a programming language and make reproducible data analyses. Further, it will provide the students with valuable tools to either continue on another, more advanced, programming course, or self-studies.
 
-[//]: # (_Add a few more general aims and motivations, but already pretty good._)
-[//]: # (MJ: Aren't the aims done?)
-
 
 ## Learning outcomes
 
@@ -108,10 +105,11 @@ Mads Jensen\
 Christopher Bailey
 
 ### Number of participants
-Max. 16 participants
+__To be determined.__ If a large enough locale is made available, perhaps just a large lecture theatre, _we are prepared to open this up to tens of participants, perhaps even up to about 50_!
+[//]: # (We may live to regret this...)
 
 ### Dates and times
-Start of fall semester 2017.
+Start of fall semester 2017, before "_C171/16 Introduction to MATLAB in Neuroimaging_", for which the present course could become the prerequisite. This has already been discussed with Mikkel Bo Hansen.
 
 ### Place
-'Store IT-lab' in the Victor Albeck building, Aarhus University Course
+'Store IT-lab' in the Victor Albeck building, _or more suitable venue TBD_.
