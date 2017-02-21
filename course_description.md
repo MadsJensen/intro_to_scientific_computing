@@ -9,16 +9,17 @@ To provide students with a basic understanding of what is meant by the term "sci
 ## Learning outcomes
 
 [//]: # (_Define according to Bloom's Taxonomy (or similar)_, _cf._ ILOs.pdf)
+[//]: # (    * NB: storage, memory, CPU, (GPU), input devices, output devices, network)
+[//]: # (    * NB: could be of relevance if talking about large files processed on a remote server)
 
 Successful completion of the course will enable the student to:
 
 * Summarize the main components of a computer and relate these to the process of "computing"
-[//]: # (    * NB: storage, memory, CPU, (GPU), input devices, output devices, network)
 * Contrast _textual_ and _binary_ files in terms of their contents and find information in both using tools that can be automated
 * Contrast "local" and "network" file systems and formulate use cases for both
-[//]: # (    * NB: could be of relevance if talking about large files processed on a remote server)
 * Use _variables_ in a programming language (python) and perform simple operations (manipulations) on the information (data) they contain
 * Write a program to extract information from a file containing data in textual format, and export the collated data to another text file for further processing (statistics, visualisation)
+
 [//]: # (     * MJ: visualization might be to advanced. CJB: agreed)
 
 
@@ -43,8 +44,9 @@ The course runs over three days:
 * Variable types and manipulations
 * Basic control flow
 * Memory usage
-[//]: # (General: assessment of resource usage associated with task/variable)
 * Introduction to programming exercise
+
+[//]: # (General: assessment of resource usage associated with task/variable)
 
 **Day 3:**
 
@@ -52,6 +54,7 @@ The course runs over three days:
 * Arithmetic
 * Log file exercise
 * Examples and suggestions for further study
+
 [//]: # (Programming language choices, resources, visualisation, stats)
 
 [//]: # (The following should probably be moved to the beginning of the notebook "Exx-Parsing_Logfile.ipynb")
@@ -91,6 +94,7 @@ The course alternates between short lectures and hands-on computational problems
 
 ### ECTS
 To be determined by HEALTH
+
 [//]: # (MJ: isn't this calculated based on the hours the course takes?)
 
 ### Criteria for participation
@@ -101,11 +105,13 @@ University degree in medicine, dentistry, nursing, or Master's degree in other f
 Mads Jensen
 
 ### Instructors
-Mads Jensen\
-Christopher Bailey
+* Mads Jensen (CFIN, AU)
+* Christopher Bailey (CFIN, AU)
+* Teaching assistants: from CFIN PhD student pool
 
 ### Number of participants
 __To be determined.__ If a large enough locale is made available, perhaps just a large lecture theatre, _we are prepared to open this up to tens of participants, perhaps even up to about 50_!
+
 [//]: # (We may live to regret this...)
 
 ### Dates and times
