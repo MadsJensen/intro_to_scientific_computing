@@ -1,10 +1,17 @@
-# Introduction to scientific computing
+# Foundations of computational health science
+
+An introduction to data science
+The foundations of data-driven inquiry
+
+Introduction to scientific computing
 
 [//]: # (Course [github repo](https://github.com/MadsJensen/intro_to_scientific_computing).)
 
 ## Aims ##
+
 To provide students with a basic understanding of what is meant by the term "scientific computing" and how it can be implemented in practice. Such an understanding is the basis for learning a programming language and make reproducible data analyses. Further, it will provide the students with valuable tools to either continue on another, more advanced, programming course, or self-studies.
 
+Start of fall semester 2017, before "_C171/16 Introduction to MATLAB in Neuroimaging_", for which the present course could become the prerequisite. This has already been discussed with Mikkel Bo Hansen.
 
 ## Learning outcomes
 
@@ -22,50 +29,9 @@ Successful completion of the course will enable the student to:
 
 [//]: # (     * MJ: visualization might be to advanced. CJB: agreed)
 
+### Timetable and program
 
-## Content
-The course runs over three days:
-
-[//]: # (Thought: Maybe it would be good to talk about "pipes" as a metaphor for linking functions.)
-
-[//]: # (NB: below is likely to change order when we start writing the exercises!)
-
-**Day 1:**
-
-* What is a computer?
-* Terminal & Bash
-* Textual vs. binary files
-* File system(s)
-* Interactive development vs. scripts
-* Introduction to variables and memory
-
-**Day 2:**
-
-* Variable types and manipulations
-* Basic control flow
-* Memory usage
-* Introduction to programming exercise
-
-[//]: # (General: assessment of resource usage associated with task/variable)
-
-**Day 3:**
-
-* Functions
-* Arithmetic
-* Log file exercise
-* Examples and suggestions for further study
-
-[//]: # (Programming language choices, resources, visualisation, stats)
-
-[//]: # (The following should probably be moved to the beginning of the notebook "Exx-Parsing_Logfile.ipynb")
-
-**Programming exercise: extracting information from log files:**
-
-* Event: target (in samples).
-* Reaction: button press (in samples).
-* Calculate reaction time in ms.
-* Export in long format.
-
+See [separate document](program.md) for more detailed contents.
 
 ### Prerequisites
 
@@ -73,12 +39,13 @@ Participants must bring their own laptop with a hard drive (no Chromebooks or ta
 
 ### Teaching format
 
-Lectures (few) and (mostly) hands-on exercises.
+Teaching is in the form of "interactive lectures", where students follow 
+instructions to complete specific learning tasks (hands-on) introduced by the lecturers. 
 
 ### Target audience
 
-* Students of any discipline that generates or work with _data_ that needs to be analysed to gain insight into a phenomenon (_a.k.a._ "everybody")
-* People interested in the foundations of data-driven science
+* Students of any discipline that generates or work with _data_ that needs to be analysed to gain insight into a phenomenon
+* Students interested in the foundations of data-driven science
 
 ### Course material
 
@@ -115,7 +82,10 @@ __To be determined.__ If a large enough locale is made available, perhaps just a
 [//]: # (We may live to regret this...)
 
 ### Dates and times
-Start of fall semester 2017, before "_C171/16 Introduction to MATLAB in Neuroimaging_", for which the present course could become the prerequisite. This has already been discussed with Mikkel Bo Hansen.
+
+Three days of teaching (Mon, Wed, Fri), possible starting dates:
+* Mon 4 September (week 36)
+* Mon 11 September (week 37)
 
 ### Place
-'Store IT-lab' in the Victor Albeck building, _or more suitable venue TBD_.
+Suitable venue will be determined after enrolment. Auditorium is fine, though flat teaching room slightly preferred.
