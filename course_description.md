@@ -2,17 +2,13 @@
 
 [//]: # (Course [github repo](https://github.com/MadsJensen/intro_to_scientific_computing).)
 
-## Aims ##
+## Criteria for participation
 
-To provide students with a basic understanding of the foundations of modern scientific computing, and the building blocks of data-driven workflows. Such an understanding is the basis for learning a programming language and making reproducible data analyses. The course provides 
+University degree in medicine, dentistry, nursing, or Master's degree in other fields and/or postgraduate research fellows (PhD students and research-year students).
 
-will enable the students to 
+## Aim ##
 
-better understand other courses using computers to handle and analyse data
-
-, e.g. C119: "Stata and Datadocumentation" and C171: "Introduction to MATLAB in Neuroimaging". Further, it will provide the students with valuable tools to either continue on another, more advanced, programming course, or self-studies.
-
-Start of fall semester 2017, before "_C171/16 Introduction to MATLAB in Neuroimaging_", for which the present course could become the prerequisite. This has already been discussed with Mikkel Bo Hansen.
+Medical professionals and other specialists now have the opportunity to gain insight into physiological mechanisms, both normal and pathological, using data driven analysis strategies that a mere 20 years ago were reserved for a select few with access to supercomputing services. With the proliferation of quantitative research tools, and the simultaneous commoditisation of computational power, comes a need for _all_ researchers to understand the foundations on which scientific computing is based. Such an understanding is the basis for learning a programming language, and enables publication of documented and reproducible data analyses. The aim of the present course is to equip the student with knowledge supportive of learning more specialised topics such as C119: "Stata and Datadocumentation" and C171: "Introduction to MATLAB in Neuroimaging".
 
 ## Learning outcomes
 
@@ -22,59 +18,50 @@ Start of fall semester 2017, before "_C171/16 Introduction to MATLAB in Neuroima
 
 Successful completion of the course will enable the student to:
 
-* Summarize the main components of a computer and relate these to the process of "computing"
-* Contrast _textual_ and _binary_ files in terms of their contents and find information in both using tools that can be automated
-* Contrast "local" and "network" file systems and formulate use cases for both
-* Use _variables_ in a programming language (python) and perform simple operations (manipulations) on the information (data) they contain
-* Write a program to extract information from a file containing data in textual format, and export the collated data to another text file for further processing (statistics, visualisation)
+* Summarize how the main components of a computer relate to, and constrain, the act of "computing".
+* Describe the basic organisation of a file system, and navigate it using commands in a "terminal".
+* Contrast _textual_ and _binary_ files in terms of their contents and find information in both using tools that can be automated.
+* Contrast local and non-local computing resources and file systems, and formulate use cases for both.
+* Use _variables_ in a programming language (python) and perform simple operations (manipulations) on the information (data) they contain.
+* Write a program to extract, collate and process information contained in a textual data file, and export it for further processing (statistics, visualisation).
 
 [//]: # (     * MJ: visualization might be to advanced. CJB: agreed)
 
-### Timetable and program
+## Contents 
 
-See [separate document](program.md) for more detailed contents.
+Teaching is in the form of "interactive lectures", where students follow instructions to complete specific learning tasks (hands-on), after introduction by the lecturers. 
 
-### Prerequisites
+* Day 1: The anatomy of a computer and data
+* Day 2: The anatomy and building blocks of a program
+* Day 3: Programming as a means to gain insight into data
 
-Participants must bring their own laptop with a hard drive (no Chromebooks or tablet-/surface-type devices are supported). Any reasonably modern (< 5-year-old) Windows, OS X or Linux operating system will do.
+### Recommended knowledge for participation
 
-### Teaching format
-
-Teaching is in the form of "interactive lectures", where students follow 
-instructions to complete specific learning tasks (hands-on) introduced by the lecturers. 
-
-### Target audience
-
-* Students of any discipline that generates or work with _data_ that needs to be analysed to gain insight into a phenomenon
-* Students interested in the foundations of data-driven science
-
-### Course material
-
-Will be provided before the beginning of course.
+No prior knowledge on the topics covered is required. Participants must bring their own laptop with a hard drive (no Chromebooks or tablet-/surface-type devices are supported). Any reasonably modern (< 5-year-old) Windows, OS X or Linux operating system will do.
 
 ### Language
 
 English
 
-### Involvement/Evaluation
+### Course material
 
-The course alternates between short lectures and hands-on computational problems
+Will be provided before the beginning of course.
+
+### Evaluation
+
+Mandatory assignment (pass/fail, internal examination)
 
 ### ECTS
 To be determined by HEALTH
 
 [//]: # (MJ: isn't this calculated based on the hours the course takes?)
 
-### Criteria for participation
-
-University degree in medicine, dentistry, nursing, or Master's degree in other fields and/or postgraduate research fellows (PhD students and research-year students).
-
 ### Head of course
-Mads Jensen
+Mads Jensen (mads@cfin.au.dk)
 
 ### Instructors
 * Mads Jensen (CFIN, AU)
-* Christopher Bailey (CFIN, AU)
+* Christopher Bailey (CFIN, AU; cjb@cfin.au.dk)
 * Teaching assistants: from CFIN PhD student pool
 
 ### Number of participants
