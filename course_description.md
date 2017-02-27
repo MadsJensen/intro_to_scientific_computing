@@ -1,15 +1,10 @@
 # Foundations of data-driven health science
 
-An introduction to data science
-The foundations of data-driven inquiry
-
-Introduction to scientific computing
-
 [//]: # (Course [github repo](https://github.com/MadsJensen/intro_to_scientific_computing).)
 
 ## Aims ##
 
-To provide students with a basic understanding of what is meant by the term "scientific computing" and how it can be implemented in practice. Such an understanding is the basis for learning a programming language and make reproducible data analyses. Further, it will provide the students with valuable tools to either continue on another, more advanced, programming course, or self-studies.
+To provide students with a basic understanding of what is meant by the term "scientific computing" and how it can be implemented in practice. Such an understanding is the basis for learning a programming language and make reproducible data analyses. This course will enable the students to better understand other courses using computers to handle and analyse data, e.g. Stata and Datadocumentation. Further, it will provide the students with valuable tools to either continue on another, more advanced, programming course, or self-studies.
 
 Start of fall semester 2017, before "_C171/16 Introduction to MATLAB in Neuroimaging_", for which the present course could become the prerequisite. This has already been discussed with Mikkel Bo Hansen.
 
