@@ -1,4 +1,4 @@
-# Foundations of computational health science
+# Foundations of data-driven health science
 
 An introduction to data science
 The foundations of data-driven inquiry
