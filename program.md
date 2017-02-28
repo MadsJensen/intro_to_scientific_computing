@@ -12,9 +12,9 @@ Three days of teaching (Mon, Wed, Fri), possible starting dates:
 ## Timetable
 
 Each day from 9 am to 4 pm, with following breaks:
-* 10:15 - 10:45
-* 12:00 - 13:00 (Lunch)
-* 14:15 - 14:45
+* 10:15 - 10:30
+* 12:00 - 12:30 (Lunch)
+* 14:14 - 14:30
 
 ## Content
 
