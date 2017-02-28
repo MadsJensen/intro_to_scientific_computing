@@ -1,4 +1,4 @@
-# Program
+# Program: Foundations of data-driven health science
 
 Teaching is in the form of "interactive lectures", where students follow 
 instructions to complete specific learning tasks introduced by the lecturers. 
@@ -12,6 +12,7 @@ Three days of teaching (Mon, Wed, Fri), possible starting dates:
 ## Timetable
 
 Each day from 9 am to 4 pm, with following breaks:
+
 * 10:15 - 10:30
 * 12:00 - 12:30 (Lunch)
 * 14:14 - 14:30
