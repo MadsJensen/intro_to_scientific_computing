@@ -23,7 +23,7 @@ Successful completion of the course will enable the student to:
 * Contrast _textual_ and _binary_ files in terms of their contents and find information in both using tools that can be automated.
 * Contrast local and non-local computing resources and file systems, and formulate use cases for both.
 * Use _variables_ in a programming language (python) and perform simple operations (manipulations) on the information (data) they contain.
-* Write a program to extract, collate and process information contained in a textual data file, and export it for further processing (statistics, visualisation).
+* Write a program to extract, collate and preprocess "raw" data for further processing (statistics, visualisation, _etc._).
 
 [//]: # (     * MJ: visualization might be to advanced. CJB: agreed)
 
