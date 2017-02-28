@@ -1,10 +1,14 @@
-# Introduction to scientific computing
+# Foundations of data-driven health science
 
 [//]: # (Course [github repo](https://github.com/MadsJensen/intro_to_scientific_computing).)
 
-## Aims ##
-To provide students with a basic understanding of what is meant by the term "scientific computing" and how it can be implemented in practice. Such an understanding is the basis for learning a programming language and make reproducible data analyses. Further, it will provide the students with valuable tools to either continue on another, more advanced, programming course, or self-studies.
+## Criteria for participation
 
+University degree in medicine, dentistry, nursing, or Master's degree in other fields and/or postgraduate research fellows (PhD students and research-year students).
+
+## Aim ##
+
+Medical professionals and other specialists now have the opportunity to gain insight into physiological mechanisms, both normal and pathological, using data driven analysis strategies that not long ago were only applicable to those with access to supercomputing services. With the proliferation of quantitative research tools, and the simultaneous commoditisation of computational power, comes a need for _all_ researchers to understand the foundations on which scientific computing is based. Such an understanding is the basis for learning a programming language, and enables publication of documented and reproducible data analyses. The aim of the present course is to lay the conceptual foundation with which the student may begin to apply data-driven research practices, and to support her advencement to more specialised topics such as C119: "Stata and Datadocumentation" and C171: "Introduction to MATLAB in Neuroimaging".
 
 ## Learning outcomes
 
@@ -14,99 +18,50 @@ To provide students with a basic understanding of what is meant by the term "sci
 
 Successful completion of the course will enable the student to:
 
-* Summarize the main components of a computer and relate these to the process of "computing"
-* Contrast _textual_ and _binary_ files in terms of their contents and find information in both using tools that can be automated
-* Contrast "local" and "network" file systems and formulate use cases for both
-* Use _variables_ in a programming language (python) and perform simple operations (manipulations) on the information (data) they contain
-* Write a program to extract information from a file containing data in textual format, and export the collated data to another text file for further processing (statistics, visualisation)
+* Summarize how the main components of a computer relate to, and constrain, the act of "computing".
+* Describe the basic organisation of a file system, and navigate it using commands in a "terminal".
+* Contrast _textual_ and _binary_ files in terms of their contents and find information in both using tools that can be automated.
+* Contrast local and non-local computing resources and file systems, and formulate use cases for both.
+* Use _variables_ in a programming language (python) and perform simple operations (manipulations) on the information (data) they contain.
+* Write a program to extract, collate and preprocess "raw" data for further processing (statistics, visualisation, _etc._).
 
 [//]: # (     * MJ: visualization might be to advanced. CJB: agreed)
 
+## Contents 
 
-## Content
-The course runs over three days:
+Teaching is in the form of "interactive lectures", where students follow instructions to complete specific learning tasks (hands-on), after introduction by the lecturers. 
 
-[//]: # (Thought: Maybe it would be good to talk about "pipes" as a metaphor for linking functions.)
+* Day 1: The anatomy of a computer and data
+* Day 2: The anatomy and building blocks of a program
+* Day 3: Programming as a means to gain insight into data
 
-[//]: # (NB: below is likely to change order when we start writing the exercises!)
+### Recommended knowledge for participation
 
-**Day 1:**
-
-* What is a computer?
-* Terminal & Bash
-* Textual vs. binary files
-* File system(s)
-* Interactive development vs. scripts
-* Introduction to variables and memory
-
-**Day 2:**
-
-* Variable types and manipulations
-* Basic control flow
-* Memory usage
-* Introduction to programming exercise
-
-[//]: # (General: assessment of resource usage associated with task/variable)
-
-**Day 3:**
-
-* Functions
-* Arithmetic
-* Log file exercise
-* Examples and suggestions for further study
-
-[//]: # (Programming language choices, resources, visualisation, stats)
-
-[//]: # (The following should probably be moved to the beginning of the notebook "Exx-Parsing_Logfile.ipynb")
-
-**Programming exercise: extracting information from log files:**
-
-* Event: target (in samples).
-* Reaction: button press (in samples).
-* Calculate reaction time in ms.
-* Export in long format.
-
-
-### Prerequisites
-
-Participants must bring their own laptop with a hard drive (no Chromebooks or tablet-/surface-type devices are supported). Any reasonably modern (< 5-year-old) Windows, OS X or Linux operating system will do.
-
-### Teaching format
-
-Lectures (few) and (mostly) hands-on exercises.
-
-### Target audience
-
-* Students of any discipline that generates or work with _data_ that needs to be analysed to gain insight into a phenomenon (_a.k.a._ "everybody")
-* People interested in the foundations of data-driven science
-
-### Course material
-
-Will be provided before the beginning of course.
+No prior knowledge on the topics covered is required. Participants must bring their own laptop with a hard drive (no Chromebooks or tablet-/surface-type devices are supported). Any reasonably modern (< 5-year-old) Windows, OS X or Linux operating system will do.
 
 ### Language
 
 English
 
-### Involvement/Evaluation
+### Course material
 
-The course alternates between short lectures and hands-on computational problems
+Will be provided before the beginning of course.
+
+### Evaluation
+
+Mandatory assignment (pass/fail, internal examination)
 
 ### ECTS
 To be determined by HEALTH
 
 [//]: # (MJ: isn't this calculated based on the hours the course takes?)
 
-### Criteria for participation
-
-University degree in medicine, dentistry, nursing, or Master's degree in other fields and/or postgraduate research fellows (PhD students and research-year students).
-
 ### Head of course
-Mads Jensen
+Mads Jensen (mads@cfin.au.dk)
 
 ### Instructors
 * Mads Jensen (CFIN, AU)
-* Christopher Bailey (CFIN, AU)
+* Christopher Bailey (CFIN, AU; cjb@cfin.au.dk)
 * Teaching assistants: from CFIN PhD student pool
 
 ### Number of participants
@@ -115,7 +70,10 @@ __To be determined.__ If a large enough locale is made available, perhaps just a
 [//]: # (We may live to regret this...)
 
 ### Dates and times
-Start of fall semester 2017, before "_C171/16 Introduction to MATLAB in Neuroimaging_", for which the present course could become the prerequisite. This has already been discussed with Mikkel Bo Hansen.
+
+Three days of teaching (Mon, Wed, Fri), possible starting dates:
+* Mon 4 September (week 36)
+* Mon 11 September (week 37)
 
 ### Place
-'Store IT-lab' in the Victor Albeck building, _or more suitable venue TBD_.
+Suitable venue will be determined after enrolment. Auditorium is fine, though flat teaching room slightly preferred.
