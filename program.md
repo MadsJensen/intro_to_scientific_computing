@@ -6,6 +6,7 @@ instructions to complete specific learning tasks introduced by the lecturers.
 ## Dates
 
 Three days of teaching (Mon, Wed, Fri), possible starting dates:
+
 * Mon 4 September (week 36)
 * Mon 11 September (week 37)
 
