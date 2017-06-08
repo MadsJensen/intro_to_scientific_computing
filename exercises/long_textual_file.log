@@ -1,0 +1,858 @@
+47.5443 	DATA 	HA-pics
+47.5443 	DATA 	0 Disgust_female_028_30_b.jpg
+47.5443 	DATA 	1 Disgust_female_052_51_b.jpg
+47.5443 	DATA 	2 Disgust_female_061_45_a.jpg
+47.5443 	DATA 	3 Disgust_female_063_27_b.jpg
+47.5443 	DATA 	4 Disgust_female_069_27_b.jpg
+47.5443 	DATA 	5 Disgust_female_071_26_a.jpg
+47.5443 	DATA 	6 Disgust_female_080_53_a.jpg
+47.5443 	DATA 	7 Disgust_female_084_54_b.jpg
+47.5443 	DATA 	8 Disgust_female_093_47_a.jpg
+47.5443 	DATA 	9 Disgust_female_101_22_a.jpg
+47.5444 	DATA 	10 Disgust_female_103_49_a.jpg
+47.5444 	DATA 	11 Disgust_female_113_50_a.jpg
+47.5444 	DATA 	12 Disgust_female_115_23_a.jpg
+47.5444 	DATA 	13 Disgust_female_117_45_a.jpg
+47.5444 	DATA 	14 Disgust_female_134_28_a.jpg
+47.5444 	DATA 	15 Disgust_female_171_30_a.jpg
+47.5444 	DATA 	16 Disgust_male_041_a.jpg
+47.5444 	DATA 	17 Disgust_male_045_46_a.jpg
+47.5444 	DATA 	18 Disgust_male_049_26_b.jpg
+47.5444 	DATA 	19 Disgust_male_057_22_b.jpg
+47.5444 	DATA 	20 Disgust_male_058_50_b.jpg
+47.5444 	DATA 	21 Disgust_male_062_24_a.jpg
+47.5444 	DATA 	22 Disgust_male_066_25_b.jpg
+47.5444 	DATA 	23 Disgust_male_070_45_b.jpg
+47.5444 	DATA 	24 Disgust_male_072_24_a.jpg
+47.5444 	DATA 	25 Disgust_male_082_50_b.jpg
+47.5444 	DATA 	26 Disgust_male_087_39_a.jpg
+47.5444 	DATA 	27 Disgust_male_089_22_a.jpg
+47.5444 	DATA 	28 Disgust_male_108_53_b.jpg
+47.5444 	DATA 	29 Disgust_male_114_26_b.jpg
+47.5444 	DATA 	30 Disgust_male_116_45_a.jpg
+47.5444 	DATA 	31 Disgust_male_127_28_a.jpg
+47.5445 	DATA 	NEG-pics
+47.5445 	DATA 	0 Anger_female_028_30_b.jpg
+47.5445 	DATA 	1 Anger_female_052_51_b.jpg
+47.5445 	DATA 	2 Anger_female_061_45_b.jpg
+47.5445 	DATA 	3 Anger_female_063_27_a.jpg
+47.5445 	DATA 	4 Anger_female_069_27_b.jpg
+47.5445 	DATA 	5 Anger_female_071_26_a.jpg
+47.5445 	DATA 	6 Anger_female_080_53_b.jpg
+47.5445 	DATA 	7 Anger_female_084_54_a.jpg
+47.5445 	DATA 	8 Anger_female_093_47_b.jpg
+47.5445 	DATA 	9 Anger_female_101_22_b.jpg
+47.5445 	DATA 	10 Anger_female_103_49_b.jpg
+47.5445 	DATA 	11 Anger_female_113_50_a.jpg
+47.5445 	DATA 	12 Anger_female_115_23_a.jpg
+47.5445 	DATA 	13 Anger_female_117_45_a.jpg
+47.5446 	DATA 	14 Anger_female_134_28_b.jpg
+47.5446 	DATA 	15 Anger_female_171_30_a.jpg
+47.5446 	DATA 	16 Anger_male_041_28_b.jpg
+47.5446 	DATA 	17 Anger_male_045_46_a.jpg
+47.5446 	DATA 	18 Anger_male_049_26_b.jpg
+47.5446 	DATA 	19 Anger_male_057_22_a.jpg
+47.5446 	DATA 	20 Anger_male_058_50_a.jpg
+47.5446 	DATA 	21 Anger_male_062_24_b.jpg
+47.5446 	DATA 	22 Anger_male_066_25_b.jpg
+47.5446 	DATA 	23 Anger_male_070_45_b.jpg
+47.5446 	DATA 	24 Anger_male_072_24_b.jpg
+47.5446 	DATA 	25 Anger_male_082_50_b.jpg
+47.5446 	DATA 	26 Anger_male_087_39_a.jpg
+47.5446 	DATA 	27 Anger_male_089_22_a.jpg
+47.5446 	DATA 	28 Anger_male_108_53_a.jpg
+47.5446 	DATA 	29 Anger_male_114_26_a.jpg
+47.5446 	DATA 	30 Anger_male_116_45_a.jpg
+47.5446 	DATA 	31 Anger_male_127_28_a.jpg
+47.5447 	DATA 	NEU-pics
+47.5447 	DATA 	0 Neutral_female_028_30_b.jpg
+47.5447 	DATA 	1 Neutral_female_052_51_b.jpg
+47.5447 	DATA 	2 Neutral_female_061_45_b.jpg
+47.5447 	DATA 	3 Neutral_female_063_27_a.jpg
+47.5447 	DATA 	4 Neutral_female_069_27_a.jpg
+47.5447 	DATA 	5 Neutral_female_071_26_a.jpg
+47.5447 	DATA 	6 Neutral_female_080_53_b.jpg
+47.5447 	DATA 	7 Neutral_female_084_54_b.jpg
+47.5447 	DATA 	8 Neutral_female_093_47_a.jpg
+47.5447 	DATA 	9 Neutral_female_101_22_b.jpg
+47.5447 	DATA 	10 Neutral_female_103_49_a.jpg
+47.5447 	DATA 	11 Neutral_female_113_53_a.jpg
+47.5447 	DATA 	12 Neutral_female_115_23_a.jpg
+47.5447 	DATA 	13 Neutral_female_117_45_a.jpg
+47.5447 	DATA 	14 Neutral_female_134_28_a.jpg
+47.5448 	DATA 	15 Neutral_female_171_30_b.jpg
+47.5448 	DATA 	16 Neutral_male_041_28_a.jpg
+47.5448 	DATA 	17 Neutral_male_045_46_b.jpg
+47.5448 	DATA 	18 Neutral_male_049_26_b.jpg
+47.5448 	DATA 	19 Neutral_male_057_22_b.jpg
+47.5448 	DATA 	20 Neutral_male_058_50_b.jpg
+47.5448 	DATA 	21 Neutral_male_062_24_b.jpg
+47.5448 	DATA 	22 Neutral_male_066_25_b.jpg
+47.5448 	DATA 	23 Neutral_male_070_45_b.jpg
+47.5448 	DATA 	24 Neutral_male_072_24_a.jpg
+47.5448 	DATA 	25 Neutral_male_082_50_b.jpg
+47.5448 	DATA 	26 Neutral_male_087_39_a.jpg
+47.5448 	DATA 	27 Neutral_male_089_22_a.jpg
+47.5448 	DATA 	28 Neutral_male_108_53_b.jpg
+47.5448 	DATA 	29 Neutral_male_114_26_b.jpg
+47.5448 	DATA 	30 Neutral_male_116_45_a.jpg
+47.5448 	DATA 	31 Neutral_male_127_28_a.jpg
+63.1887 	DATA 	Keypress: return
+30.9540 	DATA 	Keypress: 5
+0.0132 	DATA 	INSTRUCTION
+1.6659 	DATA 	Keypress: 5
+3.3328 	DATA 	Keypress: 5
+4.9988 	DATA 	Keypress: 5
+6.6647 	DATA 	Keypress: 5
+8.3306 	DATA 	Keypress: 5
+9.9965 	DATA 	Keypress: 5
+11.6625 	DATA 	Keypress: 5
+13.3284 	DATA 	Keypress: 5
+14.2635 	DATA 	START BLOCK GEO
+14.2635 	DATA 	IMAGES left TRG 0 L 1 R 2
+14.9943 	DATA 	Keypress: 5
+16.2636 	DATA 	No keypress (maxWait exceeded)
+16.2803 	DATA 	RT -1.00 False block 1 stim 1
+16.2933 	DATA 	Keypress: 1
+16.6602 	DATA 	Keypress: 5
+18.3262 	DATA 	Keypress: 5
+19.9922 	DATA 	Keypress: 5
+20.5638 	DATA 	IMAGES right TRG 0 L 1 R 2
+21.6221 	DATA 	Keypress: 3
+21.6580 	DATA 	Keypress: 5
+22.5638 	DATA 	RT 1058.36 True block 1 stim 2
+23.3240 	DATA 	Keypress: 5
+24.9899 	DATA 	Keypress: 5
+26.6559 	DATA 	Keypress: 5
+26.8472 	DATA 	IMAGES left TRG 0 L 1 R 2
+27.8658 	DATA 	Keypress: 2
+28.3218 	DATA 	Keypress: 5
+28.8472 	DATA 	RT 1018.68 True block 1 stim 3
+29.9877 	DATA 	Keypress: 5
+31.6536 	DATA 	Keypress: 5
+33.1307 	DATA 	IMAGES right TRG 0 L 1 R 2
+33.3196 	DATA 	Keypress: 5
+34.2265 	DATA 	Keypress: 3
+34.9855 	DATA 	Keypress: 5
+35.1307 	DATA 	RT 1095.93 True block 1 stim 4
+36.6514 	DATA 	Keypress: 5
+38.3183 	DATA 	Keypress: 5
+39.3959 	DATA 	END BLOCK GEO DUR 25.1
+39.4141 	DATA 	START BLOCK NEG
+39.4142 	DATA 	IMAGES left TRG 18 L 18 R 3
+39.9843 	DATA 	Keypress: 5
+40.1052 	DATA 	Keypress: 2
+41.6502 	DATA 	Keypress: 5
+43.3162 	DATA 	Keypress: 5
+43.4142 	DATA 	RT 691.15 True block 2 stim 1
+44.9821 	DATA 	Keypress: 5
+46.6480 	DATA 	Keypress: 5
+47.6310 	DATA 	IMAGES left TRG 7 L 7 R 30
+48.3140 	DATA 	Keypress: 5
+48.3399 	DATA 	Keypress: 2
+49.9799 	DATA 	Keypress: 5
+51.6311 	DATA 	RT 708.94 True block 2 stim 2
+51.6458 	DATA 	Keypress: 5
+53.3118 	DATA 	Keypress: 5
+54.9777 	DATA 	Keypress: 5
+55.8478 	DATA 	IMAGES right TRG 25 L 30 R 25
+56.5456 	DATA 	Keypress: 3
+56.6436 	DATA 	Keypress: 5
+58.3095 	DATA 	Keypress: 5
+59.8479 	DATA 	RT 697.86 True block 2 stim 3
+59.9755 	DATA 	Keypress: 5
+61.6414 	DATA 	Keypress: 5
+63.3073 	DATA 	Keypress: 5
+64.0646 	DATA 	IMAGES right TRG 23 L 25 R 23
+64.7483 	DATA 	Keypress: 3
+64.9732 	DATA 	Keypress: 5
+66.6392 	DATA 	Keypress: 5
+68.0649 	DATA 	RT 683.72 True block 2 stim 4
+68.3052 	DATA 	Keypress: 5
+69.9711 	DATA 	Keypress: 5
+71.6370 	DATA 	Keypress: 5
+72.2702 	DATA 	END BLOCK NEG DUR 32.9
+72.2815 	DATA 	START BLOCK GEO
+72.2815 	DATA 	IMAGES right TRG 0 L 1 R 2
+73.3039 	DATA 	Keypress: 5
+74.2815 	DATA 	No keypress (maxWait exceeded)
+74.2982 	DATA 	RT -1.00 False block 3 stim 1
+74.2983 	DATA 	Keypress: 3
+74.9698 	DATA 	Keypress: 5
+76.6358 	DATA 	Keypress: 5
+78.1317 	DATA 	IMAGES left TRG 0 L 1 R 2
+78.3017 	DATA 	Keypress: 5
+79.3337 	DATA 	Keypress: 2
+79.9676 	DATA 	Keypress: 5
+80.1317 	DATA 	RT 1202.06 True block 3 stim 2
+81.6337 	DATA 	Keypress: 5
+83.2997 	DATA 	Keypress: 5
+83.9651 	DATA 	IMAGES left TRG 0 L 1 R 2
+84.9655 	DATA 	Keypress: 5
+85.0604 	DATA 	Keypress: 2
+85.9651 	DATA 	RT 1095.36 True block 3 stim 3
+86.6314 	DATA 	Keypress: 5
+88.2973 	DATA 	Keypress: 5
+89.7985 	DATA 	IMAGES right TRG 0 L 1 R 2
+89.9632 	DATA 	Keypress: 5
+90.7352 	DATA 	Keypress: 3
+91.6292 	DATA 	Keypress: 5
+91.8152 	DATA 	RT 936.78 True block 3 stim 4
+93.2951 	DATA 	Keypress: 5
+94.9610 	DATA 	Keypress: 5
+95.6395 	DATA 	END BLOCK GEO DUR 23.4
+95.6487 	DATA 	START BLOCK HA
+95.6487 	DATA 	IMAGES right TRG 14 L 22 R 14
+96.3700 	DATA 	Keypress: 3
+96.6270 	DATA 	Keypress: 5
+98.2929 	DATA 	Keypress: 5
+99.6488 	DATA 	RT 721.33 True block 4 stim 1
+99.9589 	DATA 	Keypress: 5
+101.6248 	DATA 	Keypress: 5
+102.7989 	DATA 	IMAGES left TRG 27 L 27 R 5
+103.2907 	DATA 	Keypress: 5
+103.4947 	DATA 	Keypress: 2
+104.9566 	DATA 	Keypress: 5
+106.6226 	DATA 	Keypress: 5
+106.8156 	DATA 	RT 695.85 True block 4 stim 2
+108.2895 	DATA 	Keypress: 5
+109.9554 	DATA 	Keypress: 5
+109.9657 	DATA 	IMAGES left TRG 10 L 10 R 26
+110.6624 	DATA 	Keypress: 2
+111.6214 	DATA 	Keypress: 5
+113.2873 	DATA 	Keypress: 5
+113.9824 	DATA 	RT 696.80 True block 4 stim 3
+114.9532 	DATA 	Keypress: 5
+116.6191 	DATA 	Keypress: 5
+117.1326 	DATA 	IMAGES right TRG 28 L 5 R 28
+117.7361 	DATA 	Keypress: 3
+118.2851 	DATA 	Keypress: 5
+119.9510 	DATA 	Keypress: 5
+121.1326 	DATA 	RT 603.61 True block 4 stim 4
+121.6170 	DATA 	Keypress: 5
+123.2829 	DATA 	Keypress: 5
+124.2761 	DATA 	END BLOCK HA DUR 28.6
+124.2827 	DATA 	START BLOCK NEU
+124.2827 	DATA 	IMAGES left TRG 12 L 12 R 3
+124.9328 	DATA 	Keypress: 2
+124.9488 	DATA 	Keypress: 5
+126.6147 	DATA 	Keypress: 5
+128.2827 	DATA 	RT 650.16 True block 5 stim 1
+128.2828 	DATA 	Keypress: 5
+129.9466 	DATA 	Keypress: 5
+131.6125 	DATA 	Keypress: 5
+132.6328 	DATA 	IMAGES right TRG 24 L 14 R 24
+133.2785 	DATA 	Keypress: 5
+133.4755 	DATA 	Keypress: 3
+134.9444 	DATA 	Keypress: 5
+136.6103 	DATA 	Keypress: 5
+136.6329 	DATA 	RT 842.68 True block 5 stim 2
+138.2763 	DATA 	Keypress: 5
+139.9422 	DATA 	Keypress: 5
+140.9830 	DATA 	IMAGES right TRG 23 L 25 R 23
+141.6081 	DATA 	Keypress: 5
+141.7681 	DATA 	Keypress: 3
+143.2751 	DATA 	Keypress: 5
+144.9410 	DATA 	Keypress: 5
+144.9831 	DATA 	RT 785.10 True block 5 stim 3
+146.6069 	DATA 	Keypress: 5
+148.2729 	DATA 	Keypress: 5
+149.3333 	DATA 	IMAGES left TRG 16 L 16 R 15
+149.9388 	DATA 	Keypress: 5
+150.0327 	DATA 	Keypress: 2
+151.6047 	DATA 	Keypress: 5
+153.2707 	DATA 	Keypress: 5
+153.3333 	DATA 	RT 699.53 True block 5 stim 4
+154.9366 	DATA 	Keypress: 5
+156.6025 	DATA 	Keypress: 5
+157.6686 	DATA 	END BLOCK NEU DUR 33.4
+157.6833 	DATA 	START BLOCK HA
+157.6834 	DATA 	IMAGES left TRG 22 L 22 R 25
+158.2684 	DATA 	Keypress: 5
+158.4314 	DATA 	Keypress: 2
+159.9344 	DATA 	Keypress: 5
+161.6003 	DATA 	Keypress: 5
+161.6835 	DATA 	RT 748.08 True block 6 stim 1
+163.2662 	DATA 	Keypress: 5
+164.9322 	DATA 	Keypress: 5
+166.5669 	DATA 	IMAGES right TRG 23 L 28 R 23
+166.5981 	DATA 	Keypress: 5
+167.3270 	DATA 	Keypress: 3
+168.2641 	DATA 	Keypress: 5
+169.9300 	DATA 	Keypress: 5
+170.5671 	DATA 	RT 760.22 True block 6 stim 2
+171.5959 	DATA 	Keypress: 5
+173.2618 	DATA 	Keypress: 5
+174.9278 	DATA 	Keypress: 5
+175.4506 	DATA 	IMAGES left TRG 20 L 20 R 14
+176.2647 	DATA 	Keypress: 2
+176.5947 	DATA 	Keypress: 5
+178.2606 	DATA 	Keypress: 5
+179.4506 	DATA 	RT 814.27 True block 6 stim 3
+179.9266 	DATA 	Keypress: 5
+181.5925 	DATA 	Keypress: 5
+183.2584 	DATA 	Keypress: 5
+184.3340 	DATA 	IMAGES right TRG 4 L 19 R 4
+184.9003 	DATA 	Keypress: 3
+184.9243 	DATA 	Keypress: 5
+186.5903 	DATA 	Keypress: 5
+188.2562 	DATA 	Keypress: 5
+188.3340 	DATA 	RT 566.44 True block 6 stim 4
+189.9221 	DATA 	Keypress: 5
+191.5882 	DATA 	Keypress: 5
+193.1997 	DATA 	END BLOCK HA DUR 35.5
+193.2175 	DATA 	START BLOCK NEU
+193.2175 	DATA 	IMAGES right TRG 11 L 15 R 11
+193.2540 	DATA 	Keypress: 5
+193.7980 	DATA 	Keypress: 3
+194.9199 	DATA 	Keypress: 5
+196.5859 	DATA 	Keypress: 5
+197.2175 	DATA 	RT 580.52 True block 7 stim 1
+198.2518 	DATA 	Keypress: 5
+199.9177 	DATA 	Keypress: 5
+201.0509 	DATA 	IMAGES right TRG 6 L 18 R 6
+201.5807 	DATA 	Keypress: 3
+201.5836 	DATA 	Keypress: 5
+203.2496 	DATA 	Keypress: 5
+204.9155 	DATA 	Keypress: 5
+205.0510 	DATA 	RT 529.79 True block 7 stim 2
+206.5815 	DATA 	Keypress: 5
+208.2474 	DATA 	Keypress: 5
+208.8844 	DATA 	IMAGES left TRG 18 L 18 R 10
+209.6953 	DATA 	Keypress: 2
+209.9133 	DATA 	Keypress: 5
+211.5803 	DATA 	Keypress: 5
+212.8846 	DATA 	RT 811.00 True block 7 stim 3
+213.2462 	DATA 	Keypress: 5
+214.9121 	DATA 	Keypress: 5
+216.5780 	DATA 	Keypress: 5
+216.7180 	DATA 	IMAGES left TRG 3 L 3 R 12
+217.4060 	DATA 	Keypress: 2
+218.2440 	DATA 	Keypress: 5
+219.9099 	DATA 	Keypress: 5
+220.7181 	DATA 	RT 688.09 True block 7 stim 4
+221.5759 	DATA 	Keypress: 5
+223.2418 	DATA 	Keypress: 5
+224.5424 	DATA 	END BLOCK NEU DUR 31.3
+224.5515 	DATA 	START BLOCK NEG
+224.5516 	DATA 	IMAGES right TRG 30 L 2 R 30
+224.9077 	DATA 	Keypress: 5
+225.5257 	DATA 	Keypress: 3
+226.5736 	DATA 	Keypress: 5
+228.2396 	DATA 	Keypress: 5
+228.5683 	DATA 	RT 974.15 True block 8 stim 1
+229.9055 	DATA 	Keypress: 5
+231.5714 	DATA 	Keypress: 5
+232.9183 	DATA 	IMAGES right TRG 22 L 15 R 22
+233.2374 	DATA 	Keypress: 5
+233.7723 	DATA 	Keypress: 3
+234.9033 	DATA 	Keypress: 5
+236.5692 	DATA 	Keypress: 5
+236.9351 	DATA 	RT 854.05 True block 8 stim 2
+238.2352 	DATA 	Keypress: 5
+239.9011 	DATA 	Keypress: 5
+241.2852 	DATA 	IMAGES left TRG 1 L 1 R 6
+241.5670 	DATA 	Keypress: 5
+242.0730 	DATA 	Keypress: 2
+243.2330 	DATA 	Keypress: 5
+244.8989 	DATA 	Keypress: 5
+245.3020 	DATA 	RT 787.84 True block 8 stim 3
+246.5658 	DATA 	Keypress: 5
+248.2317 	DATA 	Keypress: 5
+249.6521 	DATA 	IMAGES left TRG 29 L 29 R 19
+249.8977 	DATA 	Keypress: 5
+250.6236 	DATA 	Keypress: 2
+251.5636 	DATA 	Keypress: 5
+253.2296 	DATA 	Keypress: 5
+253.6688 	DATA 	RT 971.58 True block 8 stim 4
+254.8956 	DATA 	Keypress: 5
+256.5614 	DATA 	Keypress: 5
+258.0140 	DATA 	END BLOCK NEG DUR 33.5
+258.0189 	DATA 	START BLOCK GEO
+258.0189 	DATA 	IMAGES left TRG 0 L 1 R 2
+258.2274 	DATA 	Keypress: 5
+259.0103 	DATA 	Keypress: 2
+259.8933 	DATA 	Keypress: 5
+260.0356 	DATA 	RT 991.47 True block 9 stim 1
+261.5592 	DATA 	Keypress: 5
+263.2252 	DATA 	Keypress: 5
+264.6858 	DATA 	IMAGES right TRG 0 L 1 R 2
+264.8911 	DATA 	Keypress: 5
+265.8060 	DATA 	Keypress: 3
+266.5570 	DATA 	Keypress: 5
+266.6858 	DATA 	RT 1120.30 True block 9 stim 2
+268.2229 	DATA 	Keypress: 5
+269.8889 	DATA 	Keypress: 5
+271.3359 	DATA 	IMAGES right TRG 0 L 1 R 2
+271.5548 	DATA 	Keypress: 5
+272.5207 	DATA 	Keypress: 3
+273.2207 	DATA 	Keypress: 5
+273.3359 	DATA 	RT 1184.94 True block 9 stim 3
+274.8867 	DATA 	Keypress: 5
+276.5526 	DATA 	Keypress: 5
+277.9713 	DATA 	END BLOCK GEO DUR 20.0
+277.9859 	DATA 	START BLOCK HA
+277.9860 	DATA 	IMAGES left TRG 0 L 0 R 25
+278.2185 	DATA 	Keypress: 5
+278.7585 	DATA 	Keypress: 2
+279.8845 	DATA 	Keypress: 5
+281.5514 	DATA 	Keypress: 5
+281.9861 	DATA 	RT 772.60 True block 10 stim 1
+283.2173 	DATA 	Keypress: 5
+284.8833 	DATA 	Keypress: 5
+285.6194 	DATA 	IMAGES right TRG 6 L 24 R 6
+286.2712 	DATA 	Keypress: 3
+286.5492 	DATA 	Keypress: 5
+288.2151 	DATA 	Keypress: 5
+289.6196 	DATA 	RT 651.86 True block 10 stim 2
+289.8811 	DATA 	Keypress: 5
+291.5470 	DATA 	Keypress: 5
+293.2129 	DATA 	Keypress: 5
+293.2530 	DATA 	IMAGES right TRG 12 L 22 R 12
+294.1059 	DATA 	Keypress: 3
+294.8788 	DATA 	Keypress: 5
+296.5448 	DATA 	Keypress: 5
+297.2531 	DATA 	RT 852.93 True block 10 stim 3
+298.2107 	DATA 	Keypress: 5
+299.8766 	DATA 	Keypress: 5
+300.8865 	DATA 	IMAGES left TRG 24 L 24 R 27
+301.5426 	DATA 	Keypress: 5
+302.1855 	DATA 	Keypress: 2
+303.2085 	DATA 	Keypress: 5
+304.8744 	DATA 	Keypress: 5
+304.8865 	DATA 	RT 1299.06 True block 10 stim 4
+306.5404 	DATA 	Keypress: 5
+308.2063 	DATA 	Keypress: 5
+308.5110 	DATA 	END BLOCK HA DUR 30.5
+308.5199 	DATA 	START BLOCK NEU
+308.5200 	DATA 	IMAGES right TRG 8 L 30 R 8
+309.1503 	DATA 	Keypress: 3
+309.8722 	DATA 	Keypress: 5
+311.5382 	DATA 	Keypress: 5
+312.5201 	DATA 	RT 630.35 True block 11 stim 1
+313.2041 	DATA 	Keypress: 5
+314.8700 	DATA 	Keypress: 5
+316.5370 	DATA 	Keypress: 5
+317.0869 	DATA 	IMAGES left TRG 30 L 30 R 22
+318.0629 	DATA 	Keypress: 2
+318.2029 	DATA 	Keypress: 5
+319.8688 	DATA 	Keypress: 5
+321.0869 	DATA 	RT 976.12 True block 11 stim 2
+321.5348 	DATA 	Keypress: 5
+323.2007 	DATA 	Keypress: 5
+324.8666 	DATA 	Keypress: 5
+325.6537 	DATA 	IMAGES left TRG 21 L 21 R 31
+326.5326 	DATA 	Keypress: 5
+326.7815 	DATA 	Keypress: 2
+328.1985 	DATA 	Keypress: 5
+329.6538 	DATA 	RT 1127.86 True block 11 stim 3
+329.8644 	DATA 	Keypress: 5
+331.5304 	DATA 	Keypress: 5
+333.1963 	DATA 	Keypress: 5
+334.2090 	DATA 	END BLOCK NEU DUR 25.7
+334.2205 	DATA 	START BLOCK NEG
+334.2205 	DATA 	IMAGES left TRG 20 L 20 R 24
+334.8622 	DATA 	Keypress: 5
+335.1011 	DATA 	Keypress: 2
+336.5281 	DATA 	Keypress: 5
+338.1941 	DATA 	Keypress: 5
+338.2206 	DATA 	RT 880.67 True block 12 stim 1
+339.8600 	DATA 	Keypress: 5
+341.5259 	DATA 	Keypress: 5
+343.1708 	DATA 	IMAGES left TRG 26 L 26 R 14
+343.1919 	DATA 	Keypress: 5
+343.8108 	DATA 	Keypress: 2
+344.8578 	DATA 	Keypress: 5
+346.5238 	DATA 	Keypress: 5
+347.1709 	DATA 	RT 640.09 True block 12 stim 2
+348.1897 	DATA 	Keypress: 5
+349.8556 	DATA 	Keypress: 5
+351.5225 	DATA 	Keypress: 5
+352.1209 	DATA 	IMAGES right TRG 12 L 28 R 12
+352.8435 	DATA 	Keypress: 3
+353.1884 	DATA 	Keypress: 5
+354.8544 	DATA 	Keypress: 5
+356.1210 	DATA 	RT 722.57 True block 12 stim 3
+356.5203 	DATA 	Keypress: 5
+358.1862 	DATA 	Keypress: 5
+359.8522 	DATA 	Keypress: 5
+361.0712 	DATA 	IMAGES right TRG 4 L 30 R 4
+361.5181 	DATA 	Keypress: 5
+361.7661 	DATA 	Keypress: 3
+363.1841 	DATA 	Keypress: 5
+364.8500 	DATA 	Keypress: 5
+365.0712 	DATA 	RT 694.91 True block 12 stim 4
+366.5159 	DATA 	Keypress: 5
+368.1819 	DATA 	Keypress: 5
+369.8478 	DATA 	Keypress: 5
+370.0068 	DATA 	END BLOCK NEG DUR 35.8
+370.0214 	DATA 	START BLOCK GEO
+370.0214 	DATA 	IMAGES right TRG 0 L 1 R 2
+370.9427 	DATA 	Keypress: 3
+371.5137 	DATA 	Keypress: 5
+372.0214 	DATA 	RT 921.38 True block 13 stim 1
+373.1796 	DATA 	Keypress: 5
+374.8456 	DATA 	Keypress: 5
+376.5115 	DATA 	Keypress: 5
+376.8049 	DATA 	IMAGES left TRG 0 L 1 R 2
+377.9395 	DATA 	Keypress: 2
+378.1774 	DATA 	Keypress: 5
+378.8049 	DATA 	RT 1134.65 True block 13 stim 2
+379.8434 	DATA 	Keypress: 5
+381.5093 	DATA 	Keypress: 5
+383.1752 	DATA 	Keypress: 5
+383.5904 	DATA 	END BLOCK GEO DUR 13.6
+383.6050 	DATA 	START BLOCK HA
+383.6050 	DATA 	IMAGES left TRG 21 L 21 R 28
+384.2822 	DATA 	Keypress: 2
+384.8422 	DATA 	Keypress: 5
+386.5081 	DATA 	Keypress: 5
+387.6050 	DATA 	RT 677.26 True block 14 stim 1
+388.1740 	DATA 	Keypress: 5
+389.8400 	DATA 	Keypress: 5
+391.5059 	DATA 	Keypress: 5
+392.4886 	DATA 	IMAGES left TRG 26 L 26 R 30
+393.1718 	DATA 	Keypress: 5
+393.5269 	DATA 	Keypress: 2
+394.8378 	DATA 	Keypress: 5
+396.4886 	DATA 	RT 1038.34 True block 14 stim 2
+396.5037 	DATA 	Keypress: 5
+398.1696 	DATA 	Keypress: 5
+399.8355 	DATA 	Keypress: 5
+401.3720 	DATA 	IMAGES right TRG 31 L 12 R 31
+401.5015 	DATA 	Keypress: 5
+402.3224 	DATA 	Keypress: 3
+403.1674 	DATA 	Keypress: 5
+404.8333 	DATA 	Keypress: 5
+405.3721 	DATA 	RT 950.48 True block 14 stim 3
+406.4993 	DATA 	Keypress: 5
+408.1652 	DATA 	Keypress: 5
+409.8312 	DATA 	Keypress: 5
+410.2556 	DATA 	IMAGES right TRG 8 L 18 R 8
+411.1391 	DATA 	Keypress: 3
+411.4971 	DATA 	Keypress: 5
+413.1630 	DATA 	Keypress: 5
+414.2557 	DATA 	RT 883.60 True block 14 stim 4
+414.8289 	DATA 	Keypress: 5
+416.4949 	DATA 	Keypress: 5
+418.1608 	DATA 	Keypress: 5
+419.1211 	DATA 	END BLOCK HA DUR 35.5
+419.1391 	DATA 	START BLOCK NEU
+419.1391 	DATA 	IMAGES right TRG 0 L 29 R 0
+419.8277 	DATA 	Keypress: 5
+420.0117 	DATA 	Keypress: 3
+421.4937 	DATA 	Keypress: 5
+423.1392 	DATA 	RT 872.65 True block 15 stim 1
+423.1596 	DATA 	Keypress: 5
+424.8255 	DATA 	Keypress: 5
+426.4060 	DATA 	IMAGES left TRG 28 L 28 R 11
+426.4915 	DATA 	Keypress: 5
+427.5024 	DATA 	Keypress: 2
+428.1574 	DATA 	Keypress: 5
+429.8233 	DATA 	Keypress: 5
+430.4060 	DATA 	RT 1096.47 True block 15 stim 2
+431.4892 	DATA 	Keypress: 5
+433.1552 	DATA 	Keypress: 5
+433.6728 	DATA 	IMAGES right TRG 22 L 27 R 22
+434.3101 	DATA 	Keypress: 3
+434.8211 	DATA 	Keypress: 5
+436.4870 	DATA 	Keypress: 5
+437.6729 	DATA 	RT 637.41 True block 15 stim 3
+438.1530 	DATA 	Keypress: 5
+439.8189 	DATA 	Keypress: 5
+440.9396 	DATA 	IMAGES left TRG 19 L 19 R 12
+441.4849 	DATA 	Keypress: 5
+441.7238 	DATA 	Keypress: 2
+443.1508 	DATA 	Keypress: 5
+444.8167 	DATA 	Keypress: 5
+444.9395 	DATA 	RT 784.31 True block 15 stim 4
+446.4826 	DATA 	Keypress: 5
+448.1486 	DATA 	Keypress: 5
+448.1934 	DATA 	END BLOCK NEU DUR 29.1
+448.2063 	DATA 	START BLOCK NEG
+448.2064 	DATA 	IMAGES right TRG 9 L 6 R 9
+448.9335 	DATA 	Keypress: 3
+449.8145 	DATA 	Keypress: 5
+451.4804 	DATA 	Keypress: 5
+452.2064 	DATA 	RT 727.22 True block 16 stim 1
+453.1464 	DATA 	Keypress: 5
+454.8133 	DATA 	Keypress: 5
+455.2565 	DATA 	IMAGES right TRG 15 L 2 R 15
+456.1192 	DATA 	Keypress: 3
+456.4792 	DATA 	Keypress: 5
+458.1451 	DATA 	Keypress: 5
+459.2566 	DATA 	RT 862.81 True block 16 stim 2
+459.8111 	DATA 	Keypress: 5
+461.4770 	DATA 	Keypress: 5
+462.3067 	DATA 	IMAGES left TRG 16 L 16 R 27
+463.1150 	DATA 	Keypress: 2
+463.1429 	DATA 	Keypress: 5
+464.8089 	DATA 	Keypress: 5
+466.3068 	DATA 	RT 808.32 True block 16 stim 3
+466.4748 	DATA 	Keypress: 5
+468.1408 	DATA 	Keypress: 5
+469.3569 	DATA 	IMAGES left TRG 3 L 3 R 4
+469.8067 	DATA 	Keypress: 5
+470.3626 	DATA 	Keypress: 2
+471.4726 	DATA 	Keypress: 5
+473.1386 	DATA 	Keypress: 5
+473.3570 	DATA 	RT 1005.83 True block 16 stim 4
+474.8045 	DATA 	Keypress: 5
+476.3907 	DATA 	END BLOCK NEG DUR 28.2
+476.4070 	DATA 	START BLOCK GEO
+476.4070 	DATA 	IMAGES left TRG 0 L 1 R 2
+476.4704 	DATA 	Keypress: 5
+477.7194 	DATA 	Keypress: 2
+478.1363 	DATA 	Keypress: 5
+478.4070 	DATA 	RT 1312.42 True block 17 stim 1
+479.8023 	DATA 	Keypress: 5
+481.4682 	DATA 	Keypress: 5
+482.2905 	DATA 	IMAGES left TRG 0 L 1 R 2
+483.1341 	DATA 	Keypress: 5
+483.4781 	DATA 	Keypress: 2
+484.3072 	DATA 	RT 1187.62 True block 17 stim 2
+484.8001 	DATA 	Keypress: 5
+486.4660 	DATA 	Keypress: 5
+488.1319 	DATA 	Keypress: 5
+488.1817 	DATA 	END BLOCK GEO DUR 11.8
+488.1907 	DATA 	START BLOCK NEG
+488.1907 	DATA 	IMAGES left TRG 14 L 14 R 21
+488.8759 	DATA 	Keypress: 2
+489.7988 	DATA 	Keypress: 5
+491.4648 	DATA 	Keypress: 5
+492.2073 	DATA 	RT 685.26 True block 18 stim 1
+493.1307 	DATA 	Keypress: 5
+494.7967 	DATA 	Keypress: 5
+495.9242 	DATA 	IMAGES right TRG 5 L 15 R 5
+496.4626 	DATA 	Keypress: 5
+497.2246 	DATA 	Keypress: 3
+498.1285 	DATA 	Keypress: 5
+499.7944 	DATA 	Keypress: 5
+499.9241 	DATA 	RT 1300.44 True block 18 stim 2
+501.4604 	DATA 	Keypress: 5
+503.1263 	DATA 	Keypress: 5
+503.6410 	DATA 	IMAGES left TRG 28 L 28 R 2
+504.2143 	DATA 	Keypress: 2
+504.7922 	DATA 	Keypress: 5
+506.4582 	DATA 	Keypress: 5
+507.6410 	DATA 	RT 573.34 True block 18 stim 3
+508.1241 	DATA 	Keypress: 5
+509.7900 	DATA 	Keypress: 5
+511.3578 	DATA 	IMAGES right TRG 6 L 24 R 6
+511.4560 	DATA 	Keypress: 5
+511.9350 	DATA 	Keypress: 3
+513.1219 	DATA 	Keypress: 5
+514.7878 	DATA 	Keypress: 5
+515.3579 	DATA 	RT 577.21 True block 18 stim 4
+516.4538 	DATA 	Keypress: 5
+518.1197 	DATA 	Keypress: 5
+519.0624 	DATA 	END BLOCK NEG DUR 30.9
+519.0745 	DATA 	START BLOCK GEO
+519.0745 	DATA 	IMAGES left TRG 0 L 1 R 2
+519.7856 	DATA 	Keypress: 5
+520.0056 	DATA 	Keypress: 2
+521.0747 	DATA 	RT 931.20 True block 19 stim 1
+521.4516 	DATA 	Keypress: 5
+523.1175 	DATA 	Keypress: 5
+524.5081 	DATA 	IMAGES right TRG 0 L 1 R 2
+524.7844 	DATA 	Keypress: 5
+525.4234 	DATA 	Keypress: 3
+526.4504 	DATA 	Keypress: 5
+526.5080 	DATA 	RT 915.40 True block 19 stim 2
+528.1163 	DATA 	Keypress: 5
+529.7822 	DATA 	Keypress: 5
+529.9251 	DATA 	IMAGES left TRG 0 L 1 R 2
+531.4482 	DATA 	Keypress: 5
+531.9251 	DATA 	No keypress (maxWait exceeded)
+531.9415 	DATA 	RT -1.00 False block 19 stim 3
+533.1141 	DATA 	Keypress: 5
+534.7800 	DATA 	Keypress: 5
+535.3750 	DATA 	IMAGES right TRG 0 L 1 R 2
+536.4459 	DATA 	Keypress: 5
+536.8319 	DATA 	Keypress: 3
+537.3749 	DATA 	RT 1456.97 True block 19 stim 4
+538.1119 	DATA 	Keypress: 5
+539.7778 	DATA 	Keypress: 5
+540.7892 	DATA 	END BLOCK GEO DUR 21.7
+540.8084 	DATA 	START BLOCK HA
+540.8084 	DATA 	IMAGES right TRG 18 L 22 R 18
+541.4438 	DATA 	Keypress: 5
+541.8827 	DATA 	Keypress: 3
+543.1097 	DATA 	Keypress: 5
+544.7756 	DATA 	Keypress: 5
+544.8085 	DATA 	RT 1074.35 True block 20 stim 1
+546.4416 	DATA 	Keypress: 5
+548.0919 	DATA 	IMAGES right TRG 30 L 22 R 30
+548.1074 	DATA 	Keypress: 5
+548.9364 	DATA 	Keypress: 3
+549.7734 	DATA 	Keypress: 5
+551.4394 	DATA 	Keypress: 5
+552.1088 	DATA 	RT 844.52 True block 20 stim 2
+553.1053 	DATA 	Keypress: 5
+554.7712 	DATA 	Keypress: 5
+555.3921 	DATA 	IMAGES left TRG 2 L 2 R 21
+556.4151 	DATA 	Keypress: 2
+556.4371 	DATA 	Keypress: 5
+558.1041 	DATA 	Keypress: 5
+559.3921 	DATA 	RT 1023.14 True block 20 stim 3
+559.7700 	DATA 	Keypress: 5
+561.4359 	DATA 	Keypress: 5
+562.6756 	DATA 	IMAGES left TRG 9 L 9 R 5
+563.1019 	DATA 	Keypress: 5
+564.0318 	DATA 	Keypress: 2
+564.7678 	DATA 	Keypress: 5
+566.4338 	DATA 	Keypress: 5
+566.6923 	DATA 	RT 1356.27 True block 20 stim 4
+568.0997 	DATA 	Keypress: 5
+569.7656 	DATA 	Keypress: 5
+569.9659 	DATA 	END BLOCK HA DUR 29.2
+569.9757 	DATA 	START BLOCK NEU
+569.9757 	DATA 	IMAGES left TRG 17 L 17 R 7
+570.6345 	DATA 	Keypress: 2
+571.4315 	DATA 	Keypress: 5
+573.0974 	DATA 	Keypress: 5
+573.9758 	DATA 	RT 658.88 True block 21 stim 1
+574.7634 	DATA 	Keypress: 5
+576.4293 	DATA 	Keypress: 5
+577.8259 	DATA 	IMAGES right TRG 20 L 5 R 20
+578.0952 	DATA 	Keypress: 5
+578.4662 	DATA 	Keypress: 3
+579.7612 	DATA 	Keypress: 5
+581.4271 	DATA 	Keypress: 5
+581.8426 	DATA 	RT 640.42 True block 21 stim 2
+583.0930 	DATA 	Keypress: 5
+584.7590 	DATA 	Keypress: 5
+585.6773 	DATA 	END BLOCK NEU DUR 15.7
+585.6926 	DATA 	START BLOCK NEG
+585.6927 	DATA 	IMAGES right TRG 17 L 9 R 17
+586.4249 	DATA 	Keypress: 5
+587.4218 	DATA 	Keypress: 3
+588.0908 	DATA 	Keypress: 5
+589.6928 	DATA 	RT 1729.25 True block 22 stim 1
+589.7568 	DATA 	Keypress: 5
+591.4227 	DATA 	Keypress: 5
+593.0896 	DATA 	Keypress: 5
+594.4263 	DATA 	IMAGES right TRG 24 L 15 R 24
+594.7556 	DATA 	Keypress: 5
+595.0435 	DATA 	Keypress: 3
+596.4215 	DATA 	Keypress: 5
+598.0874 	DATA 	Keypress: 5
+598.4263 	DATA 	RT 617.31 True block 22 stim 2
+599.7534 	DATA 	Keypress: 5
+601.4193 	DATA 	Keypress: 5
+603.0852 	DATA 	Keypress: 5
+603.1598 	DATA 	IMAGES left TRG 31 L 31 R 26
+603.8612 	DATA 	Keypress: 2
+604.7512 	DATA 	Keypress: 5
+606.4171 	DATA 	Keypress: 5
+607.1598 	DATA 	RT 701.42 True block 22 stim 3
+608.0830 	DATA 	Keypress: 5
+609.7489 	DATA 	Keypress: 5
+611.4149 	DATA 	Keypress: 5
+611.8933 	DATA 	IMAGES left TRG 21 L 21 R 22
+613.0808 	DATA 	Keypress: 5
+613.0888 	DATA 	Keypress: 2
+614.7467 	DATA 	Keypress: 5
+615.8934 	DATA 	RT 1195.56 True block 22 stim 4
+616.4127 	DATA 	Keypress: 5
+618.0786 	DATA 	Keypress: 5
+619.7445 	DATA 	Keypress: 5
+620.6092 	DATA 	END BLOCK NEG DUR 34.9
+620.6268 	DATA 	START BLOCK GEO
+620.6268 	DATA 	IMAGES right TRG 0 L 1 R 2
+621.4104 	DATA 	Keypress: 5
+622.6269 	DATA 	No keypress (maxWait exceeded)
+622.6435 	DATA 	RT -1.00 False block 23 stim 1
+623.0764 	DATA 	Keypress: 5
+624.7423 	DATA 	Keypress: 5
+626.0105 	DATA 	IMAGES left TRG 0 L 1 R 2
+626.4083 	DATA 	Keypress: 5
+626.9252 	DATA 	Keypress: 2
+628.0269 	DATA 	RT 914.77 True block 23 stim 2
+628.0752 	DATA 	Keypress: 5
+629.7411 	DATA 	Keypress: 5
+631.4104 	DATA 	IMAGES right TRG 0 L 1 R 2
+631.4105 	DATA 	Keypress: 5
+632.6270 	DATA 	Keypress: 3
+633.0729 	DATA 	Keypress: 5
+633.4104 	DATA 	RT 1216.74 True block 23 stim 3
+634.7389 	DATA 	Keypress: 5
+636.4048 	DATA 	Keypress: 5
+636.7773 	DATA 	IMAGES left TRG 0 L 1 R 2
+637.6308 	DATA 	Keypress: 2
+638.0708 	DATA 	Keypress: 5
+638.7939 	DATA 	RT 853.60 True block 23 stim 4
+639.7367 	DATA 	Keypress: 5
+641.4027 	DATA 	Keypress: 5
+642.1578 	DATA 	END BLOCK GEO DUR 21.5
+642.1773 	DATA 	START BLOCK HA
+642.1773 	DATA 	IMAGES right TRG 29 L 5 R 29
+642.7896 	DATA 	Keypress: 3
+643.0686 	DATA 	Keypress: 5
+644.7345 	DATA 	Keypress: 5
+646.1774 	DATA 	RT 612.40 True block 24 stim 1
+646.4004 	DATA 	Keypress: 5
+648.0664 	DATA 	Keypress: 5
+649.5108 	DATA 	IMAGES left TRG 5 L 5 R 17
+649.7323 	DATA 	Keypress: 5
+650.0852 	DATA 	Keypress: 2
+651.3982 	DATA 	Keypress: 5
+653.0642 	DATA 	Keypress: 5
+653.5275 	DATA 	RT 574.47 True block 24 stim 2
+654.7303 	DATA 	Keypress: 5
+656.3960 	DATA 	Keypress: 5
+656.8609 	DATA 	IMAGES right TRG 16 L 31 R 16
+657.8870 	DATA 	Keypress: 3
+658.0620 	DATA 	Keypress: 5
+659.7279 	DATA 	Keypress: 5
+660.8776 	DATA 	RT 1026.13 True block 24 stim 3
+661.3938 	DATA 	Keypress: 5
+663.0607 	DATA 	Keypress: 5
+664.2111 	DATA 	IMAGES left TRG 7 L 7 R 12
+664.7267 	DATA 	Keypress: 5
+664.8636 	DATA 	Keypress: 2
+666.3926 	DATA 	Keypress: 5
+668.0586 	DATA 	Keypress: 5
+668.2112 	DATA 	RT 652.63 True block 24 stim 4
+669.7245 	DATA 	Keypress: 5
+671.3904 	DATA 	Keypress: 5
+671.5350 	DATA 	END BLOCK HA DUR 29.4
+671.5446 	DATA 	START BLOCK NEU
+671.5446 	DATA 	IMAGES left TRG 4 L 4 R 17
+672.7414 	DATA 	Keypress: 2
+673.0563 	DATA 	Keypress: 5
+674.7223 	DATA 	Keypress: 5
+675.5613 	DATA 	RT 1196.81 True block 25 stim 1
+676.3882 	DATA 	Keypress: 5
+678.0541 	DATA 	Keypress: 5
+679.5947 	DATA 	IMAGES right TRG 2 L 14 R 2
+679.7201 	DATA 	Keypress: 5
+681.3860 	DATA 	Keypress: 5
+683.0189 	DATA 	Keypress: 3
+683.0519 	DATA 	Keypress: 5
+683.5950 	DATA 	RT 3424.31 True block 25 stim 2
+683.5951 	DATA 	END BLOCK NEU DUR 12.1
+683.6115 	DATA 	INSTRUCTION END
+684.7179 	DATA 	Keypress: 5
+686.3838 	DATA 	Keypress: 5
+688.0498 	DATA 	Keypress: 5
+689.7157 	DATA 	Keypress: 5
+691.3816 	DATA 	Keypress: 5
+693.0475 	DATA 	Keypress: 5
+694.7134 	DATA 	Keypress: 5
+696.3794 	DATA 	Keypress: 5
+698.0463 	DATA 	Keypress: 5
+699.7123 	DATA 	Keypress: 5
+701.3782 	DATA 	Keypress: 5
+703.0441 	DATA 	Keypress: 5
+704.7101 	DATA 	Keypress: 5
+706.3760 	DATA 	Keypress: 5
+708.0419 	DATA 	Keypress: 5
+709.7079 	DATA 	Keypress: 5
+711.3738 	DATA 	Keypress: 5
+713.0397 	DATA 	Keypress: 5
+714.7056 	DATA 	Keypress: 5
+716.3716 	DATA 	Keypress: 5
+718.0375 	DATA 	Keypress: 5
+719.1163 	DATA 	FMRI END
+739.1290 	DATA 	No keypress (maxWait exceeded)
