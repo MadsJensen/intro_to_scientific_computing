@@ -4,3 +4,10 @@
 * Hard drive: Long term memory
 * Variables: different types of shopping bags
     * One is good for frozen & wet items, another is good for vegetables 
+    * Variables as the stuff rather than containers 
+* Path: as street maps
+
+
+# things to include
+
+* random numbers and computer
