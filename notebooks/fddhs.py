@@ -5,19 +5,19 @@ import numpy as np
 from scipy.stats import norm
 ##
 
-def decision_machine(systolic_blood_pressure, weight,
+def decision_machine(systolic_blood_pressure, bmi,
                      hearing_threshold):
     """To operate or not to operate?!
 
     systolic_blood_pressure (mmHg)
-    weight (kg)
+    boody-mass index (kg/m^2)
     hearing_threshold (dB)
     
     """    
     if (systolic_blood_pressure > 180 or systolic_blood_pressure < 90 or
         (norm.cdf(systolic_blood_pressure, 130, 10) > 0.95 and
-         (norm.cdf(weight, 70, 20) > 0.95 or
-          norm.cdf(hearing_threshold, 30, 10) > 0.95))):
-        print('You must operate!')
+         (norm.cdf(bmi, 23, 4) > 0.95 or
+          norm.cdf(hearing_threshold, 30, 8) > 0.95))):
+        print('Prepare the patient for immediate surgery!')
     else:
         print('Send the patient home with some ibuprofen.')
