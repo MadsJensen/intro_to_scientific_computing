@@ -22,16 +22,5 @@ def decision_machine(systolic_blood_pressure, bmi,
         print('Prepare the patient for immediate surgery!')
     else:
         print('Send the patient home with some ibuprofen.')
-        
 
-def initialise_folder_structure(depth=5, touch_files=0):
-    """Make nested folder structure and optional files
-    
-    level0/
-    |- level1/
-    |   |- level2a/
-    |   |- file1
-    |   |- file2
-    """
-    
     
