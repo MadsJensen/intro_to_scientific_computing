@@ -89,10 +89,11 @@ def explode_text_to_files(file_list, text='dickens.txt'):
     with open(text, 'rt') as fp:
         lines = fp.readlines()
         lines = [l for l in lines if not l.startswith('#')]
+        lines[-1] += '\n' if not lines[-1].endswith('\n') else ''
         del inject_to[len(lines):]
-        
+    
     for lno, (fileno, line) in enumerate(zip(inject_to, lines)):
-        with open(file_list[fileno], 'a') as fp:
+        with open(file_list[fileno], 'wt') as fp:
             fp.write('{:02d}: {:s}'.format(lno, line))
 
     return(inject_to)
@@ -111,6 +112,5 @@ if __name__ == '__main__':
                                    sufflist=['txt', 'log', 'bat', 'dat',
                                              'htm', 'html', 'yaml'])
     inject = explode_text_to_files(nest)
-
 
 
