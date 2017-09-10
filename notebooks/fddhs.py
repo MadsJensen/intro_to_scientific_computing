@@ -3,15 +3,10 @@
 ##
 import os
 import random
-import socket
 import string
 import numpy as np
 from scipy.stats import norm
 ##
-
-
-# everyone's special :)
-random.seed(socket.gethostname())
 
 
 def decision_machine(systolic_blood_pressure, bmi,
@@ -102,18 +97,20 @@ def explode_text_to_files(file_list, text='dickens.txt'):
 
     return(inject_to)
 
+    
+if __name__ == '__main__':
+    # everyone's special :)
+    # import socket
+    # random.seed(socket.gethostname())
+    # but for the sake of teaching...
+    random.seed('hathor')
 
-def initialise_nested_directories():
     initloc = os.path.dirname(__file__)
     print('Initialising to: {:s} ...'.format(initloc))
     nest = create_nested_dirstruct('exercises/level0', 1, 4, sublevels=4,
-                                   sufflist=['txt', 'log', 'dat', 'htm'])
+                                   sufflist=['txt', 'log', 'bat', 'dat',
+                                             'htm', 'html', 'yaml'])
     inject = explode_text_to_files(nest)
-    return(inject)
-    
-    
-if __name__ == '__main__':
-    _ = initialise_nested_directories()
 
 
 
