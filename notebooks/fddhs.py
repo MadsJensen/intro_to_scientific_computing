@@ -2,6 +2,8 @@
 """
 ##
 import os
+import re
+import glob
 import random
 import string
 import numpy as np
@@ -98,7 +100,84 @@ def explode_text_to_files(file_list, text='dickens.txt'):
 
     return(inject_to)
 
+
+def grep(filename, string):
+    for line in open(filename):
+        if re.search(string, line):
+            print(line)
+
+    return(None)
+
+
+def find(directory, wildcard):
+    return(glob.glob(os.path.join(directory, wildcard)))
+
+
+def read_log_file(logfile_name, field_sep='\t'):
+    '''Read a single log file
     
+    The field-separator is assumed to be the tab-character (\t)
+    
+    Return the mean and median RT, and the accuracy, separately for
+    the frequent and rare categories. This is done as a list (tuple) of
+    6 return values, in the order:
+    (mean_rt_freq, median_rt_freq, accuracy_freq,
+     mean_rt_rare, median_rt_rare, accuracy_rare)
+    '''
+
+    rt_freq = []
+    rt_rare = []
+    n_corr_freq = 0
+    n_corr_rare = 0
+
+    # open file and read it
+    fp = open(logfile_name, 'r')
+    all_lines = fp.readlines()
+    fp.close()
+
+    # hard-code the index of the stimulus/response type/number
+    idx = 5
+    
+    # loop over lines from 6th onwards
+    for line in all_lines[5:]:
+        split_line = line.split(field_sep)
+
+        if split_line[2].startswith('STIM'):
+            stim_time = split_line[0]
+            cur_stim = split_line[2][idx]
+        else:
+            split_line = line.split(field_sep)
+
+            resp_time = split_line[0]
+            cur_resp = split_line[2][idx]
+
+            # calculate RT
+            RT = int(resp_time) - int(stim_time)
+
+            if cur_stim in string.ascii_lowercase:
+                rt_freq.append(RT)
+                if cur_resp == '1':
+                    n_corr_freq += 1
+            elif cur_stim in string.digits:
+                rt_rare.append(RT)            
+                if cur_resp == '2':
+                    n_corr_rare += 1    
+
+    # calculate return values
+    # freq
+    mean_rt_freq = mean(rt_freq) * 100e-6
+    median_rt_freq = median(rt_freq) * 100e-6
+    accuracy_freq = 100 * n_corr_freq / len(rt_freq)
+
+    # rare
+    mean_rt_rare = mean(rt_rare) * 100e-6
+    median_rt_rare = median(rt_rare) * 100e-6
+    accuracy_rare = 100 * n_corr_rare / len(rt_rare)                    
+                    
+    return(mean_rt_freq, median_rt_freq, accuracy_freq,
+           mean_rt_rare, median_rt_rare, accuracy_rare)
+
+
 if __name__ == '__main__':
     # everyone's special :)
     # import socket
