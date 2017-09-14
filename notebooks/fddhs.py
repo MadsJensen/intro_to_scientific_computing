@@ -104,13 +104,25 @@ def explode_text_to_files(file_list, text='dickens.txt'):
 def grep(filename, string):
     for line in open(filename):
         if re.search(string, line):
-            print(line)
+            return(line.rstrip())
 
-    return(None)
+    raise RuntimeError('No matches for {} in {}'.format(string, filename))
 
 
 def find(directory, wildcard):
     return(glob.glob(os.path.join(directory, wildcard)))
+
+
+def mean(values):
+    '''Return the mean of a list of numbers'''
+    return(sum(values)/len(values))
+
+
+def median(values):
+    '''Return the median of a list of numbers
+    NB: Should be corrected for the case of even number of values!
+    '''
+    return(sorted(values)[len(values) // 2])
 
 
 def read_log_file(logfile_name, field_sep='\t'):
@@ -165,13 +177,13 @@ def read_log_file(logfile_name, field_sep='\t'):
 
     # calculate return values
     # freq
-    mean_rt_freq = mean(rt_freq) * 100e-6
-    median_rt_freq = median(rt_freq) * 100e-6
+    mean_rt_freq = mean(rt_freq) * 100e-3
+    median_rt_freq = median(rt_freq) * 100e-3
     accuracy_freq = 100 * n_corr_freq / len(rt_freq)
 
     # rare
-    mean_rt_rare = mean(rt_rare) * 100e-6
-    median_rt_rare = median(rt_rare) * 100e-6
+    mean_rt_rare = mean(rt_rare) * 100e-3
+    median_rt_rare = median(rt_rare) * 100e-3
     accuracy_rare = 100 * n_corr_rare / len(rt_rare)                    
                     
     return(mean_rt_freq, median_rt_freq, accuracy_freq,

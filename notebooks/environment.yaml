@@ -29,6 +29,7 @@ dependencies:
 - notebook
 - numpy
 - openssl
+- pandas
 - pandocfilters
 - path.py
 - pexpect
